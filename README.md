@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Brainly - Your Second Brain](https://github.com/er-mayankarya/Brainly)
 
-- 👯 I’m looking to collaborate on [ChatWithMe](https://github.com/er-mayankarya/ChatWithMe)
-
 - 📫 Reach to me through this email : **mayankarya2405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
