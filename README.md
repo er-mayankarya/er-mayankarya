@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_mayankarya" target="blank"><img src="https://img.shields.io/twitter/follow/_mayankarya?logo=twitter&style=for-the-badge" alt="_mayankarya" /></a> </p>
 
-- 🔭 I’m currently working on [Brainly - Your Second Brain](https://github.com/er-mayankarya/Brainly)
-
 - 📫 Reach to me through this email : **mayankarya2405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
