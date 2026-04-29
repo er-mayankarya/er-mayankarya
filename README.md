@@ -76,7 +76,7 @@ https://github.com/er-mayankarya/cibil-master
 
 ## GitHub Stats
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=er-mayankarya&show_icons=true)
 
 ---
 
